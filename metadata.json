@@ -1,0 +1,8 @@
+{
+  "name": "Idea Brew - Portfolio",
+  "description": "A modern futuristic portfolio showcasing creative digital work and innovative designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
